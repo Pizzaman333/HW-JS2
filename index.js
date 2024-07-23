@@ -3,10 +3,10 @@ const celsius = 38;
 const farenheit = (celsius * 1.8) + 32;
 console.log("Temperature in celsius is", celsius,". And in farenheit it is", farenheit);
 // 2
-const juneDays = 31;
-const juneHours = juneDays * 24;
-const juneMins = juneHours * 60;
-console.log("In June, there are", juneDays, "days, which have", juneHours, "hours, which have", juneMins, "minutes.");
+const julyDays = 31;
+const julyHours = julyDays * 24;
+const julyMins = julyHours * 60;
+console.log("In July 2024, there are", julyDays, "days, which have", julyHours, "hours, which have", julyMins, "minutes.");
 // 3
 let playerEnergy = 15;
 let playerHealth = 100;
