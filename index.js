@@ -6,7 +6,7 @@ console.log("Temperature in celsius is", celsius,". And in farenheit it is", far
 const juneDays = 31;
 const juneHours = juneDays * 24;
 const juneMins = juneHours * 60;
-console.log("In June, there are", juneDays, "days, wich have", juneHours, "hours, wich have", juneMins, "minutes.");
+console.log("In June, there are", juneDays, "days, which have", juneHours, "hours, which have", juneMins, "minutes.");
 // 3
 let playerEnergy = 15;
 let playerHealth = 100;
